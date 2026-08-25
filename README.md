@@ -1,4 +1,4 @@
-# OrangeHRM Web Automation Framework 🧪
+# OrangeHRM Web Automation Framework 
 
 A Selenium WebDriver automation framework for testing the **OrangeHRM** web application using **Java, TestNG, Maven, Page Object Model (POM), JSON test data, and Allure Reporting**.
 
@@ -208,7 +208,7 @@ This makes the Allure report describe the actual business flow instead of only s
 
 The Behaviors section groups tests by feature and story, making it easy to understand the functional areas covered by the automation suite.
 
-![Allure Behaviors](allure-behaviors.png)
+docs/Allure Behaviors.png
 
 ---
 
