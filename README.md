@@ -208,7 +208,9 @@ This makes the Allure report describe the actual business flow instead of only s
 
 The Behaviors section groups tests by feature and story, making it easy to understand the functional areas covered by the automation suite.
 
-docs/Allure Behaviors.png
+<p align="center">
+  <img src="docs/Allure Behaviors.png" width="700">
+</p>
 
 ---
 
