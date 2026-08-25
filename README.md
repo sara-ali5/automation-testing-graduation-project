@@ -218,7 +218,9 @@ The Behaviors section groups tests by feature and story, making it easy to under
 
 The Allure test details page shows the test status, severity, description, parameters, setup, test steps, and teardown.
 
-![Login Test Details](allure-login-test-detail.png)
+<p align="center">
+  <img src="docs/Login Test Details.png" width="700">
+</p>
 
 ---
 
@@ -226,17 +228,12 @@ The Allure test details page shows the test status, severity, description, param
 
 The Overview dashboard provides a visual summary of the test execution, including execution status and duration information.
 
-![Allure Overview](allure-overview.png)
+<p align="center">
+  <img src="docs/Allure Overview.png" width="700">
+</p>
 
 ---
 
-## Allure Suites
-
-The Suites section organizes the automated tests by their TestNG test classes.
-
-![Allure Suites](allure-suites-test-detail.png)
-
----
 
 # 📈 Test Execution
 
